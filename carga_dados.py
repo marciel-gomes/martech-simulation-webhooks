@@ -4,7 +4,7 @@ from app.databases.db import save_interaction, init_db
 # Garante que o banco e a tabela existam
 init_db()
 
-print("[CARGA] Inserindo dados fictícios de jornadas de clientes no Boticário...")
+print("[CARGA] Inserindo dados fictícios de jornadas de clientes...")
 
 # Massa de dados simulando interações em momentos diferentes
 massa_testes = [

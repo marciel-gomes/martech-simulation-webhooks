@@ -5,7 +5,7 @@ from app.api.webhook import router as webhook_router
 from app.workers.consumer import martech_worker_consumer
 from app.databases.db import init_db  # <-- Importa a inicialização do banco
 
-app = FastAPI(title="Grupo Boticário - Martech Webhook Ingestion API", version="1.0.0")
+app = FastAPI(title="Martech Webhook Ingestion API", version="1.0.0")
 
 app.include_router(webhook_router)
 
