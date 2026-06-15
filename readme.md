@@ -1,6 +1,6 @@
 # 🚀 Martech Ingestion Pipeline - Simulação 
 
-Este projeto simula uma arquitetura de alta performance para ingestão assíncrona de eventos de conversas do WhatsApp (Meta API), focada no ecossistema de Martech e integração com CRMs (Salesforce), alinhada aos requisitos de uma posição de Engenharia de Software Especialista II.
+Este projeto simula uma arquitetura de alta performance para ingestão assíncrona de eventos de conversas do WhatsApp (Meta API), focada no ecossistema de Martech e integração com CRMs (Salesforce).
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
 - **FastAPI & Uvicorn**: Ingestão de webhooks em alta performance com respostas na casa dos milissegundos.
