@@ -1,0 +1,15 @@
+# Ambiente Virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Banco de Dados Local (DuckDB)
+martech_events.db
+martech_events.db.wal
+
+# Configurações e Senhas (LGPD/Segurança)
+.env
+
+# Pastas de IDEs
+.vscode/
+.idea/
