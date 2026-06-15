@@ -19,3 +19,5 @@ O dado flui da seguinte forma:
 2. Inicie a aplicação: `python main.py`
 3. Acesse a documentação viva e teste pelo Swagger: `http://127.0.0.1:8000/docs`
 4. Execute as queries analíticas: `python queries_teste.py`
+
+![alt text](martech-arquitecture.png)
